@@ -18,7 +18,7 @@ This project was generated with Python3.6
 
 
 ## Support and contact details
- If any issues,questions,ideas and concerns are encountered,feel free to contact mumocaroline19@gmail.com
+ If any issues,questions,ideas and concerns are encountered,feel free to contact geshkoskei53@gmail.com
 
 ## Copyright (c) 2020 Kelvin Koskei
 Permission is hereby granted, free of charge, to any person obtaining a copy
