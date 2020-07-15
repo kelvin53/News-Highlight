@@ -9,7 +9,12 @@
     "python.testing.pytestEnabled": true,
     "python.testing.nosetestsEnabled": false,
     "python.testing.unittestEnabled": false,
+    "python.pythonPath": "/path/to/your/venv/bin/python",
     "python.testing.pytestArgs": [
         "."
     ]
+
+
 }
+
+

@@ -1,5 +1,5 @@
 import urllib.request,json
-from models import Source,Article
+from . models import Source,Article
 
 # Source = source.Source
 api_key = None
@@ -36,7 +36,7 @@ def get_sources():
 def process_results(source_list):
 
     """
-    Function that proceeses that the sources result and transform them to a list of Objects
+    Function that processes that the sources result and transform them to a list of Objects
 
     Args:
     source_list:A list of dictionaries that contain source details
